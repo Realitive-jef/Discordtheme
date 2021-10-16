@@ -7,6 +7,7 @@
 @import"https://codedotspectra.github.io/themes/core/settings-icons.css";
 @import"https://codedotspectra.github.io/themes/core/hljs.css";
 @import"https://fonts.googleapis.com/css2?family=Purista";
+@import"https://fonts.googleapis.com/css2?family=Kosugi Maru";
 @import"https://codedotspectra.github.io/themes/core/custom-font.css";
 :root{
     --mainColor: #7E7E7EFF;
@@ -35,7 +36,7 @@
     --rs-invisible-color: #747f8d;
     --rs-phone-visible: block;
     --rs-phone-color: var(--rs-online-color);
-    --customFont: 'Purista';
+    --customFont: 'Purista', 'Kosugi Maru';
 }
 #app-mount .emptyPreview-2kuSNe,#app-mount .tile-2naSqK,#app-mount .videoWrapper-2v09vt,#app-mount .keyboardShortcutsModal-3piNz7,#app-mount .stageSection-3mAD8V,#app-mount .modalTitle-37O4n6,#app-mount .bg-h5JY_x,#app-mount .scroller-2ZPeAD,#app-mount .wrapper-2qzCYF,#app-mount .sidebarRegionScroller-3MXcoP,#app-mount .standardSidebarView-3F1I7i,#app-mount .contentRegion-3nDuYy,#app-mount .contentRegionScroller-26nc1e,#app-mount .scroller-9moviB,#app-mount .applicationStore-1pNvnv,#app-mount .header-39GIC8,#app-mount .scroller-1IIF0A,#app-mount .nowPlayingColumn-2sl4cE,#app-mount .container-1D34oG,#app-mount .inviteToolbar-3F-l2g,#app-mount .scroller-1JbKMe,#app-mount .privateChannels-1nO12o,#app-mount .panels-j1Uci_,#app-mount .container-7Unqij,#app-mount .container-3w7J-x,#app-mount .container-1r6BKw.themed-ANHk51,#app-mount .chat-3bRxxu,#app-mount .threadSidebar-1o3BTy,#app-mount .sidebar-2K8pFh,#app-mount .scroller-1Bvpku,#app-mount .scroller-2XE8rp,#app-mount .wrapper-3NnKdC,#app-mount .layer-3QrUeG{
     background:var(--backgroundColor02) !important
