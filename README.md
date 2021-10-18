@@ -1,4 +1,4 @@
-# BetterDiscord Theme
+# Campbell
 ### 導入方法
 1. [BetterDiscord](https://betterdiscord.app/) をDLしインストールする
 
