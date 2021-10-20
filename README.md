@@ -2,7 +2,7 @@
 ### 導入方法
 1. [BetterDiscord](https://betterdiscord.app/) をDLしインストールする
 
-2.[Purista](https://www.fontsmarket.com/font-download/purista-medium)フォントがPCに入ってない場合はDLしインストールする
+2. [Purista](https://www.fontsmarket.com/font-download/purista-medium)フォントがPCに入ってない場合はDLしインストールする
 
 3. [Release](https://github.com/Realitive-jef/Discordtheme/releases)から`Campbell.theme.css`ファイルをDL
 
